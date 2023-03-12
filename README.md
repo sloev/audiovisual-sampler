@@ -12,7 +12,7 @@ video -> script -> /output/image_00001.jpg
                    /output/audio.mp3
 ```
 
-maybe even output into a special zip format "samplePAQ" and call it something nice in extension
+maybe even output into a special zip format "samplePAQ" and call it something nice in extension see https://github.com/zip-rs/zip
 
 then in rust:
 you add the "samplePAQ"s somehow and run the program
